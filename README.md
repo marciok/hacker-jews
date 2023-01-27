@@ -11,3 +11,4 @@ Um lugar para compartilhar **somente** conteudos relacionado aos temas: desenvol
 ### Deixar outros assuntos para outros grupos, vamos manter aqui relevante 🤓
 
 
+[Código de contuda](/code_of_conduct.md)
