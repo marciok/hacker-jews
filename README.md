@@ -1,7 +1,7 @@
 ![H](https://user-images.githubusercontent.com/311156/215121628-1ce7d6a8-f4b6-47b7-b1d1-fd8128a4d738.png)
 
 
-# Hacker JEWs
+# HackerJEWs
 
 ### Grupo de WhatsApp para reunir os JEWs pt-BR que trabalham com tecnologia.
 
